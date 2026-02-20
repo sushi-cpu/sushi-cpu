@@ -19,7 +19,6 @@ Hey there! I'm **Sushant** — a bioinformatician obsessed with turning raw sequ
 - 🔭 Specializing in **Genomics**, with deep expertise in Transcriptomics, Epigenomics & Metagenomics
 - ⚙️ Passionate about **modular pipeline design** and **scientific reproducibility**
 - 🖥️ Experienced working with **HPC servers** and messy, real-world biological datasets
-- 🛠️ Believer in: *"If it can't be reproduced, it doesn't count"*
 
 ---
 
