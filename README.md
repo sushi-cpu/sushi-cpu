@@ -6,7 +6,7 @@
 ---
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🧬+Decoding+genomes%2C+one+pipeline+at+a+time;🔬+Genomics+%7C+Transcriptomics+%7C+Epigenomics;⚙️+Building+modular+%26+reproducible+workflows;🖥️+Wrangling+real-world+data+on+HPC+servers)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🧬+Decoding+genomes%2C+one+pipeline+at+a+time;🔬+Genomics+%7C+Transcriptomics+%7C+Epigenomics;⚙️+Building+modular+%26+reproducible+workflows)](https://git.io/typing-svg)
 
 </div>
 
