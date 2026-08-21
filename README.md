@@ -1,116 +1,132 @@
+<div align="center">
 
-# 🧬 Sushant | Bioinformatics & Genomics Engineer
-
-Welcome to my space! I am a **Bioinformatics Engineer** specializing in end-to-end Next-Generation Sequencing (NGS) data analysis, scalable pipeline automation, and clinical genomics reporting. My work bridges the gap between raw sequencing data, reproducible engineering, and actionable clinical insights.
-
----
-
-## 🛠️ Technical Stack & Expertise
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Languages & Core</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-      <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Workflows & DevOps</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    </td>
-  </tr>
-</table>
-
-- **Genomics & NGS:** Whole Exome (WES), Whole Genome (WGS), Variant Curation, Population Genomics (GWAS, Admixture, Phylogenetics).
-- **Workflows & Automation:** Nextflow / Snakemake, Conda, Containerization (Docker, Singularity), Bash automation.
-- **Clinical Reporting:** Clinical variant annotation & prioritization, ACMG/AMP clinical guidelines alignment, report generation.
-- **Education & Communication:** Hands-on bioinformatics training, workshop curation, technical writing, and client relations.
+<!-- Waving Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sushant%20Nimbhorkar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Bioinformatician%20%7C%20Genomics%20%26%20Pipelines&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 ---
 
-## 🌟 Key Areas & Responsibilities
+<!-- Animated Typing Info -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🧬+Decoding+genomes%2C+one+pipeline+at+a+time;💻+NGS+Analysis+%28WES%2C+WGS%2C+Population%29;⚙️+Automating+scalable+%26+reproducible+pipelines;📋+Clinical+variant+curation+%26+reporting)](https://git.io/typing-svg)
 
-Here is a detailed breakdown of my core competencies and day-to-day focus. *Click on any section to expand details.*
+</div>
+
+---
+
+## 🧬 About Me
+
+Hey there! I'm **Sushant** — a Bioinformatics Engineer specializing in high-throughput sequencing data analysis, automated pipeline development, and clinical variant interpretation. I live at the intersection of **biology, data, and code**, building workflows that are clean, scalable, and fully reproducible.
+
+- 🔭 Specializing in **NGS Data Analysis**, with core expertise in Whole Exome (WES) and Whole Genome (WGS) somatic & germline applications.
+- ⚙️ Passionate about **scientific workflow automation** and modular pipeline engineering (Nextflow/Snakemake).
+- 🧬 Experienced in **clinical genomics curation**, variant annotation, and translation of raw genomic data to report-ready insights.
+- 🖥️ Skilled in utilizing **HPC environments**, Linux scripting, and containerized deployment (Docker/Singularity).
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Workflow
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-3EAE55?style=for-the-badge&logo=nextflow&logoColor=white)
+
+### Infrastructure & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🔬 Domains of Expertise
+
+<div align="center">
+
+| 🧬 NGS & WES/WGS | ⚙️ Pipeline Engineering | 📋 Clinical Curation | 🌍 Population Genomics |
+|:-----------:|:-----------------:|:-------------:|:--------------:|
+| SNVs/Indels, SVs, CNVs, Tumor profiling (TMB) | Reproducible workflows, Nextflow/Snakemake, Docker/Singularity | ACMG/AMP curation, variant verification, clinical reports | GWAS, Admixture, Phylogenetics, demographic modeling (PSMC) |
+
+</div>
+
+---
+
+## ⚙️ Core Technical Focus Areas
+
+Here is a summary of my technical competencies, key result areas (KRAs), and hands-on experience:
 
 <details open>
   <summary><b>🧬 1. NGS & Genomics Data Analysis</b></summary>
   <br/>
-
-  #### 🧪 Key Activities:
-  * **Whole Exome Sequencing (WES):** Germline and somatic analysis including raw data QC, alignment, variant calling (SNVs/Indels), functional annotation, prioritization, functional enrichment, protein-protein interaction (PPI) networks, Tumor Mutational Burden (TMB), and Copy Number Variation (CNV) profiling.
-  * **Whole Genome Sequencing (WGS):** Structural variant (SV) profiling, copy number variation analysis, joint genotyping, variant filtering, and specialized downstream analyses like telomere length estimation.
-  * **Population Genomics:** Genome-Wide Association Studies (GWAS), admixture analysis, phylogenetic reconstruction, haplotype network mapping, PSMC (Pairwise Sequentially Markovian Coalescent) historical population size estimation, and population divergence/split-time modeling.
-
-  #### 🎯 Key Responsibilities:
-  * Maintain the quality, accuracy, and reproducibility of analysis results.
-  * Deliver analysis results in a timely manner according to project requirements and established workflows.
-  * Prepare analysis deliverables including QC results, downstream analyses, appropriate statistical analyses, visualizations, and supporting methodology documentation.
+  High-throughput sequencing analysis for germline, somatic, and evolutionary genetics:
+  
+  - **Whole Exome Sequencing (WES):** Germline & somatic pipeline execution, raw data QC, alignment, variant calling (SNVs/Indels), annotation, filtration, prioritization, functional enrichment, protein-protein interaction (PPI) networks, and tumor profiling (TMB, CNVs).
+  - **Whole Genome Sequencing (WGS):** Structural variant (SV) profiling, copy number variation analysis, joint genotyping, variant filtering, and telomere length estimation.
+  - **Population Genomics:** Genome-wide association studies (GWAS), admixture analysis, phylogenetics, haplotype networks, demographic history modeling (PSMC), and population split-time estimation.
 </details>
 
 <details>
-  <summary><b>🤖 2. Bioinformatics Pipeline Development, Automation & Maintenance</b></summary>
+  <summary><b>⚙️ 2. Bioinformatics Pipeline Engineering & Automation</b></summary>
   <br/>
-
-  #### 🧪 Key Activities:
-  * **Workflow Engineering:** Developing and validating proprietary clinical genomics pipelines (e.g., KYD - Know Your DNA) and bacterial WGS workflows.
-  * **Automation & Tools:** Creating custom launchers and orchestration software to enable seamless, team-wide execution of pipelines while minimizing manual intervention and turnaround times.
-  * **Infrastructure & Lifecycle:** Packaging dependencies using containerization (Docker, Singularity) and managing configurations to ensure stable and reproducible environments across HPC clusters and local systems.
-
-  #### 🎯 Key Responsibilities:
-  * Ensure pipelines function as expected and generate consistent, reproducible outputs.
-  * Perform testing, validation, and troubleshooting of pipeline changes and new features.
-  * Continuously improve pipelines and supporting software based on team usage and evolving analytical requirements.
-  * Maintain relevant pipeline configurations, dependencies, and technical documentation.
+  Developing and validating standardized pipelines for robust and reproducible execution:
+  
+  - **Workflow Automation:** Designing and automating clinical & research genomics pipelines to minimize manual steps and reduce analysis turnaround time.
+  - **Custom Wrappers:** Developing internal software launchers and execution wrappers to simplify complex pipeline execution for multidisciplinary teams.
+  - **Reproducibility:** Packaging software environments and pipeline dependencies using containerization (Docker, Singularity) and virtual environments (Conda).
 </details>
 
 <details>
-  <summary><b>📋 3. Clinical Genomics / KYD Report Building</b></summary>
+  <summary><b>📋 3. Clinical Genomics & Variant Curation</b></summary>
   <br/>
-
-  #### 🧪 Key Activities:
-  * **Variant Prioritization:** Applying rigorous biological and clinical filters to narrow down raw pipeline variant outputs to high-confidence disease-causing candidates.
-  * **Clinical Curation & Literature Review:** Cross-referencing findings with clinical databases, databases of genomic variants, and medical literature following standard guidelines.
-  * **Clinical Report Design:** Compiling validated genetic findings into clear, structured, and compliant clinical reports tailored for clinicians and patients.
-
-  #### 🎯 Key Responsibilities:
-  * Validate variants prioritized during post-processing of pipeline outputs.
-  * Ensure accuracy and adherence to established clinical guidelines for prioritized variants.
-  * Ensure clinical report content is complete, consistent, and appropriately supported by the underlying analysis results.
-</details>
-
-<details>
-  <summary><b>🏫 4. Bioinformatics Workshop Module Development</b></summary>
-  <br/>
-
-  #### 🧪 Key Activities:
-  * **Educational Modules:** Curating comprehensive hands-on workshops covering genomics analysis, containerized demo workflows, and data visualization.
-  * **Interactive Learning:** Developing Docker/Singularity-based demonstration sandboxes to allow learners to run pipeline modules without setup friction.
-  * **Technical Instruction:** Leading hands-on sessions and providing live technical support to guide participants through analytical challenges.
-
-  #### 🎯 Key Responsibilities:
-  * Ensure workshop content is functional, accurate, and suitable for hands-on learning.
-  * Maintain appropriate documentation and presentation materials for workshop delivery.
-  * Provide technical guidance and support to participants during practical sessions.
-</details>
-
-<details>
-  <summary><b>🤝 5. Client Meetings & Technical Communication</b></summary>
-  <br/>
-
-  #### 🧪 Key Activities:
-  * **Cross-functional Collaboration:** Consulting on research design, sequencing QC, and specialized analysis requests from external clients and collaborators.
-  * **Data Visualization & Reporting:** Authoring detailed methodology documents and designing publication-ready visualizations (heatmaps, circos plots, phylogenetic trees).
-  * **Technical Presentation:** Leading client presentations to translate complex biological findings and pipeline metrics into digestible business and clinical outcomes.
-
-  #### 🎯 Key Responsibilities:
-  * Provide clear and accurate technical communication regarding analysis methodology, results, and relevant limitations to the client wherever required.
-  * Prepare timely, accurate, and client-ready presentation materials, analysis outputs, and methodology documentation.
+  Translating raw variant calls into actionable clinical insights following standard guidelines:
+  
+  - **Variant Curation:** Filtering, prioritizing, and validating prioritized candidate variants outputted by somatic and germline pipelines.
+  - **Report Generation:** Reviewing variant annotations, performing literature curation, and compiling structured, patient/clinician-facing clinical reports.
 </details>
 
 ---
 
-  <i>"Turning raw sequencing data into reproducible pipelines and actionable clinical insights."</i>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sushi-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=6" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushi-cpu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" width="500"/>
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+
+> *"Biology generates the questions. Code generates the answers. Reproducibility makes them trustworthy."*
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-sushi--cpu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sushi-cpu)
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushant.nimbhorkar@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</div>
