@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sushant%20Nimbhorkar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Bioinformatician%20%7C%20Genomics%20%26%20Pipelines&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Sushant%20Nimbhorkar&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Bioinformatician%20%7C%20Genomics%20%26%20Pipelines&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%"/>
 
 ---
 
@@ -95,12 +95,12 @@ Here is a summary of my technical competencies, key result areas (KRAs), and han
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sushi-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sushi-cpu&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=38bdf8&amp;text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushi-cpu&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=ffffff&amp;langs_count=6" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushi-cpu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushi-cpu&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=f472b6&amp;currStreakLabel=a78bfa" width="500"/>
 
 </div>
 
@@ -128,5 +128,5 @@ Here is a summary of my technical competencies, key result areas (KRAs), and han
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%"/>
 </div>
