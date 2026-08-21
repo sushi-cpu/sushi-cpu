@@ -91,11 +91,11 @@ Here is a summary of my technical competencies, key result areas (KRAs), and han
 
 ---
 
-## 📊 Contribution Activity
+## 📊 Contribution Calendar
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushi-cpu&bg_color=0d1117&color=a78bfa&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Sushant's GitHub Activity Graph" />
+<img src="https://ghchart.rshah.org/a78bfa/sushi-cpu" alt="Sushant's GitHub Contributions Calendar" width="100%" />
 
 </div>
 
