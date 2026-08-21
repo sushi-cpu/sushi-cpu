@@ -91,16 +91,11 @@ Here is a summary of my technical competencies, key result areas (KRAs), and han
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight.vercel.app/api?username=sushi-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=sushi-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=6" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=sushi-cpu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" width="500"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushi-cpu&bg_color=0d1117&color=a78bfa&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Sushant's GitHub Activity Graph" />
 
 </div>
 
